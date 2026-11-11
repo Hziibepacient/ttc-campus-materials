@@ -1,0 +1,774 @@
+[
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\ArsenalSC-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\ArsenalSC-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\BigShoulders-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\BigShoulders-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\BigShoulders-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Boldonse-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Boldonse-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\BricolageGrotesque-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\BricolageGrotesque-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\BricolageGrotesque-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\CrimsonPro-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\CrimsonPro-Italic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\CrimsonPro-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\CrimsonPro-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\DMMono-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\DMMono-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\EricaOne-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\EricaOne-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\GeistMono-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\GeistMono-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\GeistMono-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Gloock-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Gloock-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\IBMPlexMono-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\IBMPlexMono-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\IBMPlexMono-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\IBMPlexSerif-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\IBMPlexSerif-BoldItalic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\IBMPlexSerif-Italic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\IBMPlexSerif-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\InstrumentSans-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\InstrumentSans-BoldItalic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\InstrumentSans-Italic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\InstrumentSans-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\InstrumentSans-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\InstrumentSerif-Italic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\InstrumentSerif-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Italiana-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Italiana-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\JetBrainsMono-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\JetBrainsMono-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\JetBrainsMono-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Jura-Light.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Jura-Medium.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Jura-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\LibreBaskerville-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\LibreBaskerville-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Lora-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Lora-BoldItalic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Lora-Italic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Lora-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Lora-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\NationalPark-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\NationalPark-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\NationalPark-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\NothingYouCouldDo-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\NothingYouCouldDo-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Outfit-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Outfit-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Outfit-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\PixelifySans-Medium.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\PixelifySans-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\PoiretOne-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\PoiretOne-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\RedHatMono-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\RedHatMono-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\RedHatMono-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Silkscreen-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Silkscreen-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\SmoochSans-Medium.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\SmoochSans-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Tektur-Medium.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Tektur-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\Tektur-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\WorkSans-Bold.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\WorkSans-BoldItalic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\WorkSans-Italic.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\WorkSans-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\WorkSans-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\YoungSerif-OFL.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\canvas-fonts\\YoungSerif-Regular.ttf",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\LICENSE.txt",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\canvas-design\\SKILL.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copy-editing\\evals\\evals.json",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copy-editing\\references\\checklist.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copy-editing\\references\\content-refresh.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copy-editing\\references\\plain-english-alternatives.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copy-editing\\SKILL.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copywriting\\evals\\evals.json",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copywriting\\references\\ai-tells.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copywriting\\references\\copy-frameworks.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copywriting\\references\\natural-transitions.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\copywriting\\SKILL.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\agents\\impeccable_asset_producer.toml",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\agents\\impeccable_documenter.toml",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\agents\\impeccable_finish_reviewer.toml",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\agents\\impeccable_manual_edit_applier.toml",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\agents\\openai.yaml",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\adapt.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\adapt.native.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\android.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\animate.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\audit.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\audit.native.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\bolder.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\clarify.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\colorize.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\component-review.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\craft-floor.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\craft.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\critique.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\degraded\\asset-producer.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\degraded\\documenter.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\degraded\\finish-reviewer.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\degraded\\manual-edit-applier.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\delight.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\distill.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\doctor.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\document.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\extract.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\generate.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\harden.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\hooks.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\init.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\ios.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\layout.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\live-setup.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\live.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\mode-operate.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\mode-persuade.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\mode-read.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\new-work.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\onboard.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\operate.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\optimize.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\overdrive.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\polish.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\quieter.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\region-map.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\routing.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\shape.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\typeset.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\reference\\visualize.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\command-metadata.json",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\data\\font-index-failures.json",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\data\\font-index.json",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\impeccable",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\impeccable.cmd",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\live-browser-dom.js",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\live-browser-ignores.js",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\live-browser-session.js",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\live-browser.js",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\modern-screenshot.umd.js",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\scripts\\VERSION",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\impeccable\\SKILL.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\approval-checklist.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\asset-organization.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\brand-guideline-template.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\color-palette-management.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\consistency-checklist.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\logo-usage-rules.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\messaging-framework.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\typography-specifications.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\update.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\visual-identity.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\references\\voice-framework.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\scripts\\extract-colors.cjs",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\scripts\\inject-brand-context.cjs",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\scripts\\sync-brand-to-tokens.cjs",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\scripts\\tests\\test_sync_brand_to_tokens.py",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\scripts\\validate-asset.cjs",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\SKILL.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\TTC-AIR登机手册\\设计调研\\外部skills\\uupm-brand\\templates\\brand-guidelines-starter.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\download-source.json",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\input.jpg",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\input2.jpg",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesr-animevideov3-x2.bin",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesr-animevideov3-x2.param",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesr-animevideov3-x3.bin",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesr-animevideov3-x3.param",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesr-animevideov3-x4.bin",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesr-animevideov3-x4.param",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesrgan-x4plus-anime.bin",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesrgan-x4plus-anime.param",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesrgan-x4plus.bin",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\models\\realesrgan-x4plus.param",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\onepiece_demo.mp4",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\README_windows.md",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\realesrgan-ncnn-vulkan.exe",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\vcomp140.dll",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\Real-ESRGAN-ncnn-vulkan\\vcomp140d.dll",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "活动设计参考\\立牌打印160cm\\tools\\realesrgan-ncnn-vulkan-20220424-windows.zip",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  },
+  {
+    "path": "配套网页\\ttc-air-campus-preview\\.qa-deps\\zxingcpp\\__pycache__\\__init__.cpython-312.pyc",
+    "reason": "工具、依赖或外部技能源码，不属于宣传素材"
+  }
+]
