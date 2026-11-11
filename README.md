@@ -1,12 +1,42 @@
-# TTC Campus × EventLens
+# TTC Campus｜校招视觉作品与 EventLens
 
 **从校园活动的视觉设计与现场执行，到视频分析工具与可追溯的数据报告。**
 
-这个作品集收录 TTC 校招活动素材，并用真实现场延时摄影展示 EventLens：如何把“立牌周围有多少人停下”转成可配置、可复核的分析流程。
+这次校园活动以 TTC AIR 机场为视觉主题，制作了角色贴纸、三张 PPT 主视觉和现场机长立牌。下方直接展示作品；之后是用真实现场视频制作的 EventLens 分析案例。
+
+## 01 / 校招视觉作品
+
+### 机场主题贴纸
+
+A5 机场贴纸最终打印版，包含航站楼、候机厅、机坪和登机场景。
+
+<a href="showcase/design/airport-stickers.png"><img src="showcase/design/airport-stickers.png" alt="TTC AIR 中国农业大学机场主题贴纸最终打印版" width="600"></a>
+
+### 三张 PPT 主视觉
+
+**开场｜In the Age of AI, Where Should We Fly?**
+
+![TTC AIR 校招 PPT 开场图：云海机长与 AI 时代的方向提问](showcase/design/ppt-opening.png)
+
+**小组讨论｜Group Discussion**
+
+![TTC AIR 校招 PPT 小组讨论图：候机厅圆桌交流](showcase/design/ppt-discussion.png)
+
+**结尾｜You Don’t Need Every Answer to Take Off.**
+
+![TTC AIR 校招 PPT 结尾图：机长面向云海日出准备出发](showcase/design/ppt-ending.png)
+
+### 现场机长立牌
+
+用于校园活动现场的奶龙机长立牌，高 160 cm。下方为打印文件预览，登机牌上保留活动信息与二维码。
+
+<a href="showcase/design/captain-standee.png"><img src="showcase/design/captain-standee.png" alt="TTC AIR 奶龙机长手持登机牌的160厘米现场立牌打印预览" width="420"></a>
+
+以上图片可点击查看大图。可编辑文件、高清打印文件与 PPT 均收录在[校招素材下载包](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/materials-2026-11-11)中。
 
 [项目源码](eventlens-project/) · [下载完整版视频](https://github.com/Hziibepacient/ttc-campus-materials/releases/download/eventlens-showcase-2026-11-11/eventlens-campus-4x.mp4) · [案例与统计口径](showcase/README.md) · [软件与分析报告下载](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/eventlens-showcase-2026-11-11) · [校招素材下载](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/materials-2026-11-11)
 
-## 01 / EventLens：把现场观察做成工具
+## 02 / EventLens：把现场观察做成工具
 
 https://github.com/user-attachments/assets/6249d915-7036-4ffd-b00b-869955689bb0
 
@@ -32,7 +62,7 @@ flowchart LR
 
 [浏览 EventLens 0.2.0 源码与安装说明 →](eventlens-project/README.md)
 
-## 02 / 校招现场：用真实素材验证流程
+## 03 / 校招现场：用真实素材验证流程
 
 | 项目 | 本案例记录 |
 |---|---:|
@@ -48,7 +78,7 @@ flowchart LR
 
 [查看完整案例、规则敏感性与数据 →](showcase/README.md)
 
-## 03 / 校招活动：策划、视觉与现场物料
+## 04 / 校招活动：策划、视觉与现场物料
 
 除 EventLens 外，本项目还保存了校园活动从策划、宣传、现场展示到配套网页的制作材料，共 **1,314 个文件**，包含源文件、输出成品、参考资料与历史版本。
 
@@ -78,7 +108,7 @@ flowchart LR
 
 两个 ZIP 可以分别解压。[文件清单 CSV](manifest.csv) / [JSON](manifest.json) 列出全部 1,314 个文件的相对路径、字节数和 SHA256；[排除清单](excluded.json) 记录未纳入的软件工具、依赖与外部技能源码。[原素材归档说明](docs/materials-archive.md) 保留初次上传时的范围说明。
 
-## 04 / EventLens：代码、视频与报告导航
+## 05 / EventLens：代码、视频与报告导航
 
 | 内容 | 在线查看 | 下载与用途 |
 |---|---|---|
