@@ -1,0 +1,59 @@
+{
+  "source": "existing local EventLens 0.2.0 distribution wheel",
+  "wheel_sha256": "3713de2367d096a5dfb3e83955b1addc33e779344229a1377e8f950b484090d0",
+  "packaging_metadata": "pyproject.toml reconstructed from wheel METADATA and entry_points.txt",
+  "python_files": [
+    {
+      "path": "src/eventlens/__init__.py",
+      "sha256": "746d39375a02b39416d0a78efc292c484ef5e46e70228100045c79c3e2dab4f7"
+    },
+    {
+      "path": "src/eventlens/analyze.py",
+      "sha256": "9353f0928cc3499f5062ad2da95f6ff84053a49ea63d40456605d867c7436526"
+    },
+    {
+      "path": "src/eventlens/cli.py",
+      "sha256": "714b1538fc1f25647d7be8117775614c948c652477dae4ca980445ec5b6075eb"
+    },
+    {
+      "path": "src/eventlens/config.py",
+      "sha256": "a1ae8c941aa5783a0c81bb2ee24d55153a7fc89290651b7488c8a1119a729155"
+    },
+    {
+      "path": "src/eventlens/count.py",
+      "sha256": "c66abce05966ef320772b7223127544000b5ddab2bed3913d17ffb43ec59829e"
+    },
+    {
+      "path": "src/eventlens/detect.py",
+      "sha256": "6f3458e086e6ef3ca8047071145e01dc8be751d785958c713c89695ca420159b"
+    },
+    {
+      "path": "src/eventlens/evaluate.py",
+      "sha256": "247433e6f2847db17cbf605d8a0e2efb1c0ea5a492ebe315705645221e6499d1"
+    },
+    {
+      "path": "src/eventlens/media.py",
+      "sha256": "8c488b772fb92fa6b56ac6954f033bf439f0b9f451b5e931bb183b5ad2ae7ce2"
+    },
+    {
+      "path": "src/eventlens/render.py",
+      "sha256": "f17658e43e3af973daf0667b81fb770571f7189748d554f9c03a4e808322c2e9"
+    },
+    {
+      "path": "src/eventlens/report.py",
+      "sha256": "754c6a32e633d3f73cccfb756be002c518b4fe92c5998ca5a8cc49f5a8f4ea86"
+    },
+    {
+      "path": "src/eventlens/review.py",
+      "sha256": "857ab79067af438d63cd32fd28260f7c80698fe0a6be4ccb4eeef966dbdef297"
+    },
+    {
+      "path": "src/eventlens/scan.py",
+      "sha256": "f3df4059e2e97de2b9b391cea49373c79a7c462ed8c1bd42d13fd49463abd6a7"
+    },
+    {
+      "path": "src/eventlens/statics.py",
+      "sha256": "e25d8cf9b828687bfa455b590bed58a35bc204534d7089ca3349aed5fa280e72"
+    }
+  ]
+}

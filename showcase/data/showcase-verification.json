@@ -1,0 +1,17 @@
+{
+  "decoded_source_frames": 8300,
+  "exported_frames": 2256,
+  "fps": 29.97002997002997,
+  "duration_s": 75.2752,
+  "resolution": [
+    1280,
+    720
+  ],
+  "codec": "H.264 / yuv420p",
+  "extra_playback_speed": 4,
+  "machine_estimated_visits": 1093,
+  "human_confirmed": 0,
+  "recount_matches_existing_record_keys": true,
+  "source_fingerprints_verified": true,
+  "video_sha256": "bc2a3fd2e909ad7dce845f109b15b689172fc2815c3ee3e859a3fb09f6c2e89e"
+}

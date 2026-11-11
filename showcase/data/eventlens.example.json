@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "name": "奶龙附近停留人次 · EventLens 0.2.0 重分析",
+  "videos": [
+    {
+      "id": "ef7e944addfa",
+      "path": "videos/DJI_20261018103841_0035_D.MP4",
+      "label": "DJI_20261018103841_0035_D",
+      "seconds_per_frame": 2.0,
+      "frame_step": 1,
+      "n_frames": 301,
+      "width": 1920,
+      "height": 1080,
+      "fps": 29.97002997002997,
+      "codec": "hevc",
+      "fingerprint": "ef7e944addfae1fbb08046c3722d5251275a0006a0fbc3dc0a200f82c6e54145",
+      "start_time": null,
+      "start_time_verified": false,
+      "segments": [
+        {
+          "start": 0,
+          "end": 301,
+          "kind": "camera",
+          "camera": "camera-1",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "11dcaeed4045",
+      "path": "videos/DJI_20261018105551_0036_D.MP4",
+      "label": "DJI_20261018105551_0036_D",
+      "seconds_per_frame": 2.0,
+      "frame_step": 1,
+      "n_frames": 7999,
+      "width": 1920,
+      "height": 1080,
+      "fps": 29.97002997002997,
+      "codec": "hevc",
+      "fingerprint": "11dcaeed40452a1d1338d53359d610f1953d7418c0c6041d27f0f9dd3a920a49",
+      "start_time": null,
+      "start_time_verified": false,
+      "segments": [
+        {
+          "start": 0,
+          "end": 3090,
+          "kind": "camera",
+          "camera": "camera-1",
+          "note": ""
+        },
+        {
+          "start": 3101,
+          "end": 3849,
+          "kind": "camera",
+          "camera": "camera-2",
+          "note": ""
+        },
+        {
+          "start": 3849,
+          "end": 3916,
+          "kind": "camera",
+          "camera": "move-2-temporary",
+          "note": ""
+        },
+        {
+          "start": 3920,
+          "end": 7999,
+          "kind": "camera",
+          "camera": "camera-3",
+          "note": ""
+        },
+        {
+          "start": 200,
+          "end": 212,
+          "kind": "blackout",
+          "camera": null,
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "id": "camera-1",
+      "zone": [
+        [
+          0.1,
+          0.7
+        ],
+        [
+          0.54,
+          0.61
+        ],
+        [
+          0.9,
+          0.6
+        ],
+        [
+          0.96,
+          0.98
+        ],
+        [
+          0.05,
+          0.98
+        ]
+      ],
+      "exclude": [],
+      "note": "沿用前轮标出的附近区域，未新增人工确认"
+    },
+    {
+      "id": "camera-2",
+      "zone": [
+        [
+          0.1,
+          0.68
+        ],
+        [
+          0.4,
+          0.59
+        ],
+        [
+          0.95,
+          0.57
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0.1,
+          1
+        ]
+      ],
+      "exclude": [],
+      "note": "沿用前轮标出的附近区域，未新增人工确认"
+    },
+    {
+      "id": "move-2-temporary",
+      "zone": [
+        [
+          0.1,
+          0.68
+        ],
+        [
+          0.4,
+          0.59
+        ],
+        [
+          0.95,
+          0.57
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0.1,
+          1
+        ]
+      ],
+      "exclude": [],
+      "note": "沿用前轮标出的附近区域，未新增人工确认"
+    },
+    {
+      "id": "camera-3",
+      "zone": [
+        [
+          0.03,
+          0.71
+        ],
+        [
+          0.48,
+          0.62
+        ],
+        [
+          0.96,
+          0.57
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0.03,
+          1
+        ]
+      ],
+      "exclude": [],
+      "note": "沿用前轮标出的附近区域，未新增人工确认"
+    }
+  ],
+  "detector": {
+    "model": "yolox-s",
+    "model_path": "models/yolox_s.onnx",
+    "conf": 0.3,
+    "nms": 0.45,
+    "provider": "cpu",
+    "decode_width": 960,
+    "previews": true,
+    "preview_quality": 75
+  },
+  "rules": {
+    "min_dwell_s": 4.0,
+    "min_stable_samples": 3,
+    "max_foot_spread": 0.22,
+    "max_height_ratio": 1.35,
+    "min_box_height": 0.12,
+    "min_score": 0.3,
+    "track_gate": 0.5,
+    "track_min_color_sim": 0.3,
+    "track_max_gap_s": 4.0,
+    "exclude_iou": 0.5,
+    "merge_gap_s": 30.0,
+    "merge_max_dist": 0.8,
+    "merge_min_color_sim": 0.55,
+    "time_bin_s": 600.0
+  }
+}

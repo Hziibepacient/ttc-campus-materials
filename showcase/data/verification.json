@@ -1,0 +1,22 @@
+{
+  "checks": [
+    {
+      "video": "DJI_20261018103841_0035_D",
+      "frames": 301,
+      "all_frames_present": true,
+      "source_fingerprint": "ef7e944addfae1fbb08046c3722d5251275a0006a0fbc3dc0a200f82c6e54145"
+    },
+    {
+      "video": "DJI_20261018105551_0036_D",
+      "frames": 7999,
+      "all_frames_present": true,
+      "source_fingerprint": "11dcaeed40452a1d1338d53359d610f1953d7418c0c6041d27f0f9dd3a920a49"
+    }
+  ],
+  "total_frames": 8300,
+  "visits": 1093,
+  "evidence_images": 1093,
+  "all_visits_within_observable_camera_piece": true,
+  "csv_json_time_bins_consistent": true,
+  "human_confirmed": 0
+}
