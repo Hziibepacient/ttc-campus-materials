@@ -1,8 +1,10 @@
 # EventLens / 校招现场分析案例
 
-[返回作品集首页](../README.md) · [查看源码](../eventlens-project/) · [完整视频](assets/eventlens-campus-4x.mp4) · [下载软件、源码与完整分析报告](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/eventlens-showcase-2026-11-11)
+[返回作品集首页](../README.md) · [查看源码](../eventlens-project/) · [下载完整版视频](https://github.com/Hziibepacient/ttc-campus-materials/releases/download/eventlens-showcase-2026-11-11/eventlens-campus-4x.mp4) · [下载软件、源码与完整分析报告](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/eventlens-showcase-2026-11-11)
 
-[![完整视频封面](assets/eventlens-poster.png)](assets/eventlens-campus-4x.mp4)
+https://github.com/user-attachments/assets/6249d915-7036-4ffd-b00b-869955689bb0
+
+[下载高画质完整版](https://github.com/Hziibepacient/ttc-campus-materials/releases/download/eventlens-showcase-2026-11-11/eventlens-campus-4x.mp4) · [查看视频封面](assets/eventlens-poster.png)
 
 ## 问题与做法
 

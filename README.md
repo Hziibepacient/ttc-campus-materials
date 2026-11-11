@@ -4,13 +4,20 @@
 
 这个作品集收录 TTC 校招活动素材，并用真实现场延时摄影展示 EventLens：如何把“立牌周围有多少人停下”转成可配置、可复核的分析流程。
 
-[项目源码](eventlens-project/) · [完整加速视频](showcase/assets/eventlens-campus-4x.mp4) · [案例与统计口径](showcase/README.md) · [软件与分析报告下载](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/eventlens-showcase-2026-11-11) · [校招素材下载](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/materials-2026-11-11)
+[项目源码](eventlens-project/) · [下载完整版视频](https://github.com/Hziibepacient/ttc-campus-materials/releases/download/eventlens-showcase-2026-11-11/eventlens-campus-4x.mp4) · [案例与统计口径](showcase/README.md) · [软件与分析报告下载](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/eventlens-showcase-2026-11-11) · [校招素材下载](https://github.com/Hziibepacient/ttc-campus-materials/releases/tag/materials-2026-11-11)
 
 ## 01 / EventLens：把现场观察做成工具
 
-[![EventLens 校招视频分析动态预览](showcase/assets/eventlens-preview.gif)](showcase/assets/eventlens-campus-4x.mp4)
+https://github.com/user-attachments/assets/6249d915-7036-4ffd-b00b-869955689bb0
 
-**上方是循环快览；点击查看约 75 秒的 H.264 完整展示视频。** 原片已是每 2 秒一帧的延时摄影，展示版再加速 4 倍。画面叠加实际检测框、分机位统计区域、相对现场时间与按记录起始时间累计的估算人次。
+<details>
+<summary>展开循环动态快览</summary>
+
+![EventLens 校招视频分析动态预览](showcase/assets/eventlens-preview.gif)
+
+</details>
+
+**上方可直接播放约 75 秒、约 7 MB 的展示视频；另有完整版下载和可展开的循环快览。** 原片已是每 2 秒一帧的延时摄影，展示版再加速 4 倍。画面叠加实际检测框、分机位统计区域、相对现场时间与按记录起始时间累计的估算人次。
 
 EventLens 将 YOLOX-S 本地人体检测、检测缓存、停留规则、证据复核和报告导出串成一条工作流。区域或停留门槛改变时，计数可复用已有检测缓存；每条停留记录保留原始帧号及证据，便于回看和修正。
 
